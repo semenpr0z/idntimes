@@ -238,11 +238,12 @@ export default {
         z-index: 1;
         border-top: 1px solid #eee;
         width: 100%;
-        background-color: #fff;
+
 
         &-wrapper {
             display: flex;
             font-family: "Poppins", sans-serif;
+            background-color: #fff;
 
             .tranding {
                 font-weight: 700;
@@ -250,6 +251,7 @@ export default {
                 font-size: 12px;
                 padding: 11px 35px;
                 border: 1px solid #e5e5e4;
+
                 border-top: none;
                 overflow: hidden;
             }
@@ -651,4 +653,5 @@ export default {
             }
         }
     }
-}</style>
+}
+</style>
