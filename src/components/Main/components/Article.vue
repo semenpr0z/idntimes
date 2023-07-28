@@ -21,7 +21,7 @@ export default {
         </header>
         <main class="main">
             <figure class="main__img">
-                <img src=" https://cdn.idntimes.com/content-images/post/20230720/minheejin-356099399-962924528189328-7122677515337822124-n-d022fd5d009c937f2bb9075062e0e028_600x400.jpg"
+                <img src="https://cdn.idntimes.com/content-images/post/20230720/minheejin-356099399-962924528189328-7122677515337822124-n-d022fd5d009c937f2bb9075062e0e028_600x400.jpg"
                     alt="Pro Kontra MV NewJeans Cool With You, Ada Scene yang Terlalu Vulgar?">
                 <figcaption class="main__img-figcaption">NewJeans untuk MV Cool With You (instagram.com/min.hee.jin)
                 </figcaption>
