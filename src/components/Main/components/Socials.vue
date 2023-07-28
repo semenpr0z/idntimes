@@ -61,7 +61,7 @@ export default {
 <style lang='scss' scoped>
 .socials-sidebar {
     position: fixed;
-    z-index: 5;
+    z-index: 15;
     right: 0;
     top: calc(50% - 210px);
     display: flex;
